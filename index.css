@@ -1,0 +1,12 @@
+.main {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  overflow: hidden;
+  border-radius: 30%;
+}
+
+img {
+  height: 450px;
+  width: 300px;
+}
